@@ -1,0 +1,5 @@
+package mehak.web;
+
+public class CancelSubscriptionServlet {
+
+}
